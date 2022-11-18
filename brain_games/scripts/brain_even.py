@@ -19,7 +19,7 @@ def main():
         else:
             print(f"'{answr}' is wrong answer ;(. Correct answer was '{flag}'.")
             print(f"Let's try again, {name}!")
-            correct_answers = 0
+            return
     print(f"Congratulations, {name}!")
 
 

@@ -22,7 +22,7 @@ def main():
         else:
             print(f"'{your_answer}' is wrong answer ;(. Correct answer was '{answer}'.")
             print(f"Let's try again, {name}!")
-            correct_answers = 0
+            return
     print(f"Congratulations, {name}!")
 
 
