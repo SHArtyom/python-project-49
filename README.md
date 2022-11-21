@@ -1,4 +1,24 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/SHArtyom/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/SHArtyom/python-project-49/actions)
 <a href="https://codeclimate.com/github/SHArtyom/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/3b50867d543831c0e321/maintainability" /></a>
-[![asciicast](https://asciinema.org/a/CfBwGJXYpp5vZbkMsr1F2kEcj.svg)](https://asciinema.org/a/CfBwGJXYpp5vZbkMsr1F2kEcj)
+##Scripts demo
+
+### 'brain-even'
+
+[![asciicast](https://asciinema.org/a/kNIr1rpq8h3P2sxisdfncE1GD.svg)](https://asciinema.org/a/kNIr1rpq8h3P2sxisdfncE1GD)
+
+### 'brain-calc'
+
+[![asciicast](https://asciinema.org/a/ykJGNq4aotUwUhtBIe3XYEI3T.svg)](https://asciinema.org/a/ykJGNq4aotUwUhtBIe3XYEI3T)
+
+### 'brain-gcd'
+
+[![asciicast](https://asciinema.org/a/bMatxmXo6aITVpKoP3k48GpHu.svg)](https://asciinema.org/a/bMatxmXo6aITVpKoP3k48GpHu)
+
+### 'brain-progression'
+
+[![asciicast](https://asciinema.org/a/6BmlvTjr8CUFFb2E1PWqZNRl5.svg)](https://asciinema.org/a/6BmlvTjr8CUFFb2E1PWqZNRl5)
+
+### 'brain-prime'
+
+[![asciicast](https://asciinema.org/a/N7i3zWTiFJNLeiNByE7gB9ceX.svg)](https://asciinema.org/a/N7i3zWTiFJNLeiNByE7gB9ceX)
