@@ -1,10 +1,14 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
-authors = ["SHArtyom <sartiom1@gmail.com>"]
+description = "A small entartaining project with 5 simple mathematical games."
+authors = ["Artyom Shestakov <sartiom1@gmail.com>"]
 readme = "README.md"
+classifiers = ["Environment :: Console",
+               "Programming Language :: Python :: 3.10",
+               "Topic :: Games/Entertainment"]
 packages = [{include = "brain_games"}]
+repository = "https://github.com/SHArtyom/python-project-49"
 
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"

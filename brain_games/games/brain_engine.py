@@ -4,10 +4,10 @@ import prompt
 
 def start_game(game):
     correct_answers = 0
-    rounds = 3
+    ROUNDS = 3
     name = welcome_user()
     game.rules()
-    while correct_answers < rounds:
+    while correct_answers < ROUNDS:
         question, answer = game.generate()
         print(question)
         user_answer = prompt.string('Your answer: ', question)
