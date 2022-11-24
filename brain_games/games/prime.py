@@ -10,7 +10,7 @@ def get_rules():
 def generate():
     number = randint(3, 100)
     answer = 'yes'
-    for i in range(2, number // 2):
+    for i in range(2, number // 2 + 1):
         if number % i == 0:
             answer = 'no'
         i += 1
