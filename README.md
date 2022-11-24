@@ -10,23 +10,23 @@ You have to give 3 correct answers for each quiz, wrong answer terminates game.
 
 - brain-even
 
-*Guess whether the shown number is even or not. (italic)*
+*Guess whether the shown number is even or not.*
 
 - brain-calc
 
-*Guess the result of simple mathematicle expression. (italic)*
+*Guess the result of simple mathematicle expression.*
 
 - brain-gcd
 
-*Guess the greatest common divisor of two given numners. (italic)*
+*Guess the greatest common divisor of two given numners.*
 
 - brain-progression
 
-*Guess the missing number in given progression. (italic)*
+*Guess the missing number in given progression.*
 
 - brain-prime
 
-*Guess whether the given number is prime or not. (italic)*
+*Guess whether the given number is prime or not.*
 
 ____
 
@@ -37,11 +37,13 @@ ____
 
 ## Installation guide
 
-To install the package for an end-user:
+### To install the package for an end-user
+
+Execute:
 
 `python3 -m pip install --user dist/*.whl`
 
-If you would like to install it as a developer:
+### If you would like to install it as a developer
 
 To install all dependencies execute:
 
