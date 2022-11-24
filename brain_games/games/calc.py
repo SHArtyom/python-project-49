@@ -3,7 +3,7 @@ from random import choice
 import operator
 
 
-def rules():
+def get_rules():
     return print('What is the result of the expression?')
 
 

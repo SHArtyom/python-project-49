@@ -1,7 +1,7 @@
 from random import randint
 
 
-def rules():
+def get_rules():
     return print('Find the greatest common divisor of given numbers.')
 
 

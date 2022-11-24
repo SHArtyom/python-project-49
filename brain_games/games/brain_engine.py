@@ -6,12 +6,12 @@ def start_game(game):
     correct_answers = 0
     ROUNDS = 3
     name = welcome_user()
-    game.rules()
+    game.get_rules()
     while correct_answers < ROUNDS:
         question, answer = game.generate()
         print(question)
         user_answer = prompt.string('Your answer: ', question)
-        if user_answer.lower() == answer:
+        if user_answer == answer:
             correct_answers += 1
             print('Correct!')
         else:
