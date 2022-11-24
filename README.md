@@ -9,15 +9,19 @@ This project is a small entartainment package of 5 console mathematical games.
 You have to give 3 correct answers for each quiz, wrong answer terminates game.
 
 - brain-even
+
 Guess whether the shown number is even or not. (italic)
 
 - brain-calc
+
 Guess the result of simple mathematicle expression. (italic)
 
 - brain-gcd
+
 Guess the greatest common divisor of two given numners. (italic)
 
 - brain-progression
+
 Guess the missing number in given progression. (italic)
 
 - brain-prime
@@ -38,10 +42,15 @@ To install the package for an end-user:
 If you would like to install it as a developer:
 
 To install all dependencies execute:
+
 `make install`
+
 To build a package execute:
+
 `make build`
+
 To install the package execute:
+
 `make package-install`
 ____
 
