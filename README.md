@@ -14,11 +14,11 @@ You have to give 3 correct answers for each quiz, wrong answer terminates game.
 
 - brain-calc
 
-*Guess the result of simple mathematicle expression.*
+*Guess the result of simple mathematic expression.*
 
 - brain-gcd
 
-*Guess the greatest common divisor of two given numners.*
+*Guess the greatest common divisor of two given numbers.*
 
 - brain-progression
 
