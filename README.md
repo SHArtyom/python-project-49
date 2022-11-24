@@ -10,22 +10,24 @@ You have to give 3 correct answers for each quiz, wrong answer terminates game.
 
 - brain-even
 
-Guess whether the shown number is even or not. (italic)
+*Guess whether the shown number is even or not. (italic)*
 
 - brain-calc
 
-Guess the result of simple mathematicle expression. (italic)
+*Guess the result of simple mathematicle expression. (italic)*
 
 - brain-gcd
 
-Guess the greatest common divisor of two given numners. (italic)
+*Guess the greatest common divisor of two given numners. (italic)*
 
 - brain-progression
 
-Guess the missing number in given progression. (italic)
+*Guess the missing number in given progression. (italic)*
 
 - brain-prime
-Guess whether the given number is prime or not. (italic)
+
+*Guess whether the given number is prime or not. (italic)*
+
 ____
 
 ## Minimum requirements
