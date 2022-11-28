@@ -3,11 +3,10 @@ from random import choice
 import operator
 
 
-def get_rules():
-    return print('What is the result of the expression?')
+RULES = 'What is the result of the expression?'
 
 
-def generate():
+def generate_round_qa():
     number1 = randint(0, 20)
     number2 = randint(0, 20)
     char, action = choice([('+', operator.add),

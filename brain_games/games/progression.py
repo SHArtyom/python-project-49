@@ -1,11 +1,10 @@
 from random import randint
 
 
-def get_rules():
-    return print('What number is missing in the progression?')
+RULES = 'What number is missing in the progression?'
 
 
-def generate():
+def generate_round_qa():
     start_number = randint(0, 20)
     inc_number = randint(0, 20)
     progression = [(start_number + i * inc_number) for i in range(10)]
